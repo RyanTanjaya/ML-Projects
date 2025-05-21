@@ -1,6 +1,6 @@
 # Data Analyst & Machine Learning Portfolio
 
-This repository showcases hands-on projects from the [Machine Learning A-Z™](https://www.udemy.com/course/machinelearning/) course, covering core machine learning concepts and practical implementations in Python. Each section contains Jupyter notebooks demonstrating algorithms, visualizations, and results.
+This repository showcases hands-on projects from the Machine Learning course, covering core machine learning concepts and practical implementations in Python. Each section contains Jupyter notebooks demonstrating algorithms, visualizations, and results.
 
 ---
 
